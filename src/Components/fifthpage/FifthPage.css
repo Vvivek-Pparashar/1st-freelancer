@@ -1,0 +1,17 @@
+#webcam {
+  width: 40%;
+}
+
+@media only screen and (max-width: 1050px) {
+  #webcam {
+    width: 70%;
+    /* height: 300px; */
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  #webcam {
+    width: 100%;
+    /* height: 300px; */
+  }
+}
